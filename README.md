@@ -1,7 +1,7 @@
 # isLoop 2025: Course Materials
 
-This repository is about a lecture on Advanced Object-Oriented Design 
-given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university of Plovdiv.
+This repository contains materials for [isLoop 2025: International School on Live Object-Oriented Programming](https://isloop.pharo.org) 
+given by O.Zaitsev, S. Jordan Montaño, S. Ducasse and Mega on February 3-7, 2024 in Montpellier.
 
 - Each session is 45 min.
 
