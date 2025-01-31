@@ -1,0 +1,27 @@
+
+If you find error or typos please send PullRequest to the following repositories:
+
+https://github.com/SquareBracketAssociates/LearningOOPWithPharo
+
+-	Counter
+-	DSL
+
+
+http://github.com:SquareBracketAssociates/booklet-AdvancedMicroProjects
+	git@github.com:SquareBracketAssociates/booklet-AdvancedMicroProjects.git
+	
+- 	Compass
+- 	Paper - Stone - Scissors
+- 	Expression
+- 	Expression-Visitor
+- 	Robots
+
+http://github.com:SquareBracketAssociates/booklet-CountryTutorial
+	git@github.com:SquareBracketAssociates/booklet-CountryTutorial.git
+
+- 	CountryFlag
+
+http://github.com:SquareBracketAssociates/Booklet-ASimpleMemoryGame
+	git@github.com:SquareBracketAssociates/Booklet-ASimpleMemoryGame.git
+
+- Memory Game
