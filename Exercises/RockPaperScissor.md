@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors Game
 
-__Introduction text taken from [Olek's blog](https://blog.oleks.fr/double-dispatch) 
+__Text taken from [Olek's blog](https://blog.oleks.fr/double-dispatch)__
 
 This simple game that is familiar to nearly every child in the world originated in ancient China and Japan around 200 BC. In the early version of the game, the thumb represented the "Frog", little finger was the "Slug", and the index finger - the "Snake" (see The Official History of Rock Paper Scissors and Rock, Paper, Scissors Goes Back To Ancient China). The modern westernized version of the game that is known globally uses Rock, Paper, and Scissors. And the rules are the following:
 
