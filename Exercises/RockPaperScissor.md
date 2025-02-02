@@ -16,6 +16,5 @@ result := game play: #paper against: #rock.
 result "#paper"
 ```
 
-![](./RockPaperScissorsDrawing.png)
 
 
