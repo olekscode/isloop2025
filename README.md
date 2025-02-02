@@ -28,14 +28,14 @@ given by O.Zaitsev, S. Jordan Montaño, S. Ducasse and Mega on February 3-7, 202
 
 #### 5. Messages 
 
-- _(Mega)_ Understanding messages
-- _(Mega)_ Message composition and precedence
-- _(Mega)_ Message sequence and cascade messages
+- _(Sebas)_ Understanding messages
+- _(Sebas)_ Message composition and precedence
+- _(Sebas)_ Message sequence and cascade messages
 
 #### 6. Exercise: Rock - Paper - Scissors (if-else)
 
 #### 7. Other important elements
 
-- _(Sebas)_ Blocks
+- _(Mega)_ Blocks
 - _(Oleks)_ Loops
 - _(Oleks)_ Iterators
