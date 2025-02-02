@@ -12,30 +12,30 @@ given by O.Zaitsev, S. Jordan Montaño, S. Ducasse and Mega on February 3-7, 202
 #### 1. Welcome (40 min)
 
 - Welcome words
-- What is Pharo? https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/C019-W1S02-WhatIsPharo.pdf
-- Install Pharo
-- First look and Hello World in Pharo environment
-- First look at the environment: Playground, Inspector, System Browser, Debugger
+- _(Sebas)_ What is Pharo? https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/C019-W1S02-WhatIsPharo.pdf
+- _(together)_ Install Pharo
+- _(Mega)_ First look and Hello World in Pharo environment
+- _(Mega)_ First look at the environment: Playground, Inspector, System Browser, Debugger
 
 #### 2. Exercise: ProfStef (30 min)
 
 #### 3. Core elements (1.30 h)
 
-- Pharo object model in a nutshell
-- Class and method definition
+- _(Oleks)_ Pharo object model in a nutshell
+- _(Oleks)_ Class and method definition
 
 #### 4. Exercise: Counter
 
 #### 5. Messages 
 
-- Understanding messages
-- Message composition and precedence
-- Message sequence and cascade messages
+- _(Mega)_ Understanding messages
+- _(Mega)_ Message composition and precedence
+- _(Mega)_ Message sequence and cascade messages
 
 #### 6. Exercise: Rock - Paper - Scissors (if-else)
 
 #### 7. Other important elements
 
-- Blocks
-- Loops
-- Iterators
+- _(Sebas)_ Blocks
+- _(Oleks)_ Loops
+- _(Oleks)_ Iterators
