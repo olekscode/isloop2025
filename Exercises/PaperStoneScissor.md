@@ -7,7 +7,7 @@ You will need to have a class named `RockPaperScissors`. For playing the game, t
 ```st
 game := RockPaperScissors new.
 result := game play: #paper against: #rock.
-result "#rock"
+result "#paper"
 ```
 
 ![Rock paper scissors.](StonePaperScissorsGame2.pdf)
