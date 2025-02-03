@@ -26,16 +26,29 @@ given by O.Zaitsev, S. Jordan Montaño, S. Ducasse and Mega on February 3-7, 202
 
 #### 4. Exercise: Counter
 
-#### 5. Messages 
+## Tuesday, 4 February, 2025
+
+#### 1. Exercise: Counter (30 min strict!)
+
+#### 2. Kata: Rock-Paper-Scissors if-else (1 hour)
+
+#### 3. Lecture: Messages (1 hour)
 
 - _(Sebas)_ Understanding messages [[slides]](./slides/C019-W2S01-Messages.pdf)
 - _(Sebas)_ Message composition and precedence [[slides]](./slides/C019-W2S03-Messages-Precedence.pdf)
 - _(Sebas)_ Message sequence and cascade messages [[slides]](./slides/C019-W2S04-Messages-Sequence.pdf)
 
-#### 6. Exercise: Rock - Paper - Scissors (if-else)
+#### Lunch (2 hours)
 
-#### 7. Other important elements
+#### 4. Lecture: Inheritance (1 hour)
 
-- _(Mega)_ Blocks [[slides]](./slides/C019-W2S06-Blocks.pdf)
-- _(Oleks)_ Loops [[slides]](./slides/C019-W2S07-Loops.pdf)
-- _(Oleks)_ Iterators [[slides]](./slides/C019-W3S09-Iterators.pdf)
+#### 5. Kata: Rock-Paper-Scissors double dispatch (2 hours)
+
+Ask advanced people to do live coding
+
+#### Tasks for advanced people
+
+- **Andrzej:** Visitor, Robot
+- **Jovan:** Network
+- **Omar:** Double dispatch, Visitor
+- **Kyla:** _(ask Sebas)_
