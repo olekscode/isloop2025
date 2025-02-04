@@ -26,6 +26,12 @@ given by O.Zaitsev, S. Jordan Montaño, S. Ducasse and Mega on February 3-7, 202
 
 #### 4. Exercise: Counter
 
+#### Recommended videos
+
+- [Understanding return](https://youtu.be/dEUcZolohlw)
+- [yourself](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S10-EN-V1.mp4)
+- [Class methods](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/C019SD-W3-S6-EN-V1.mp4)
+
 ## Tuesday, 4 February, 2025
 
 #### 1. Exercise: Counter (30 min strict!)
