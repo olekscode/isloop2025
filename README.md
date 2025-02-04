@@ -42,6 +42,10 @@ given by O.Zaitsev, S. Jordan Montaño, S. Ducasse and Mega on February 3-7, 202
 
 #### 4. Lecture: Inheritance (1 hour)
 
+- Inheritance Basics [[slides]](./slides/M1-3-Essence-03-Inheritance-Basic.pdf)
+- Inheritance and Lookup: self [[slides]](./slides/M1-4-Essence-04-Self.pdf)
+- About super [[slides]](./slides/M1-5-Essence-05-Super.pdf)
+
 #### 5. Kata: Rock-Paper-Scissors double dispatch (2 hours)
 
 Ask advanced people to do live coding
