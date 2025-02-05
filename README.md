@@ -56,6 +56,13 @@ Ask advanced people to do live coding
 - **Omar:** Double dispatch, Visitor
 - **Kyla:** _(ask Sebas)_
 
+#### Recommended videos
+
+- [Essence of dispatch: Taking Pharo Booleans as Example](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S1.mp4)
+- [Essence of Dispatch: Let the receiver decide](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S2_V2.mp4)
+- [Inheritance Basics](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S3.mp4)
+- [Inheritance and Lookup: Self - Understand lookup once for all](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S4.mp4)
+
 ## Wednesday, 5 February 2025
 
 #### 1. Exercise (1 hour 30 min)
