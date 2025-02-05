@@ -11,7 +11,7 @@ given by O.Zaitsev, S. Jordan Montaño, S. Ducasse and Mega on February 3-7, 202
 
 #### 1. Welcome (40 min)
 
-- Welcome words
+- _(Oleks)_ Welcome words
 - _(Sebas)_ What is Pharo? [[slides]](./slides/C019-W1S02-WhatIsPharo.pdf)
 - _(together)_ Install Pharo
 - _(Mega)_ First look and Hello World in Pharo environment
@@ -38,21 +38,14 @@ given by O.Zaitsev, S. Jordan Montaño, S. Ducasse and Mega on February 3-7, 202
 
 #### 2. Kata: Rock-Paper-Scissors if-else (1 hour)
 
-#### 3. Lecture: Messages (1 hour)
-
-- _(Sebas)_ Understanding messages [[slides]](./slides/C019-W2S01-Messages.pdf)
-- _(Sebas)_ Message composition and precedence [[slides]](./slides/C019-W2S03-Messages-Precedence.pdf)
-- _(Sebas)_ Message sequence and cascade messages [[slides]](./slides/C019-W2S04-Messages-Sequence.pdf)
-
 #### Lunch (2 hours)
 
-#### 4. Lecture: Inheritance (1 hour)
+#### 3. Lecture: Inheritance (1 hour)
 
-- Inheritance Basics [[slides]](./slides/M1-3-Essence-03-Inheritance-Basic.pdf)
-- Inheritance and Lookup: self [[slides]](./slides/M1-4-Essence-04-Self.pdf)
-- About super [[slides]](./slides/M1-5-Essence-05-Super.pdf)
+- _(Mega)_ Inheritance Basics [[slides]](./slides/M1-3-Essence-03-Inheritance-Basic.pdf)
+- _(Mega)_ Inheritance and Lookup: self [[slides]](./slides/M1-4-Essence-04-Self.pdf)
 
-#### 5. Kata: Rock-Paper-Scissors double dispatch (2 hours)
+#### 4. Kata: Rock-Paper-Scissors double dispatch (2 hours)
 
 Ask advanced people to do live coding
 
@@ -62,3 +55,16 @@ Ask advanced people to do live coding
 - **Jovan:** Network
 - **Omar:** Double dispatch, Visitor
 - **Kyla:** _(ask Sebas)_
+
+## Wednesday, 5 February 2025
+
+#### 1. Exercise (1 hour 30 min)
+
+- Finish Rock-Paper-Scissors with beginners
+- Pair-program with advanced students on their exercises
+
+#### 2. Lecture: Messages (1 hour)
+
+- _(Sebas)_ Understanding messages [[slides]](./slides/C019-W2S01-Messages.pdf)
+- _(Sebas)_ Message composition and precedence [[slides]](./slides/C019-W2S03-Messages-Precedence.pdf)
+- _(Sebas)_ Message sequence and cascade messages [[slides]](./slides/C019-W2S04-Messages-Sequence.pdf)
