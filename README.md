@@ -68,3 +68,7 @@ Ask advanced people to do live coding
 - _(Sebas)_ Understanding messages [[slides]](./slides/C019-W2S01-Messages.pdf)
 - _(Sebas)_ Message composition and precedence [[slides]](./slides/C019-W2S03-Messages-Precedence.pdf)
 - _(Sebas)_ Message sequence and cascade messages [[slides]](./slides/C019-W2S04-Messages-Sequence.pdf)
+
+#### Lunch (2 hours)
+
+#### 3. Stephane's lectures
