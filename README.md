@@ -88,15 +88,21 @@ Ask advanced people to do live coding
 - Associated videos for topics we couldn't cover
     - collections
     - class methods
+    - XTDD
+    - Exception handling
+    - Iceberg
 - Chapters for our lectures
 
 #### General Pharo
 
 - PBE
+- Deep into Pharo
 - MOOC
 - AMOOC 
 - Spec book
 - Learning OOP with Pharo
+- Pharo with Style
+- Testing on Pharo
 
 #### Fun stuff
 
@@ -106,3 +112,18 @@ Ask advanced people to do live coding
 - Thales VR
 - Pharo JS
 - Cormas
+- Reflective kernel
+
+#### Events
+
+- GSoC
+- ESUG
+- UK Smalltalk 
+- MISS ABMS
+
+#### Community
+
+- Discord
+- Mailing lists
+- Mastodon
+- Pharo Association 
