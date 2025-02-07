@@ -79,3 +79,30 @@ Ask advanced people to do live coding
 #### Lunch (2 hours)
 
 #### 3. Stephane's lectures
+
+## Follow-up Materials
+
+#### Lectures
+
+- MOOC videos of our lectures
+- Associated videos for topics we couldn't cover
+    - collections
+    - class methods
+- Chapters for our lectures
+
+#### General Pharo
+
+- PBE
+- MOOC
+- AMOOC 
+- Spec book
+- Learning OOP with Pharo
+
+#### Fun stuff
+
+- Pharo things
+- Roassal graphics
+- Phausto
+- Thales VR
+- Pharo JS
+- Cormas
